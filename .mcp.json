@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "voyage-invest": {
+      "command": "python",
+      "args": ["-m", "voyage.server"],
+      "cwd": "D:/Arena/voyage/src",
+      "env": {
+        "PYTHONPATH": "D:/Arena/voyage/src",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
