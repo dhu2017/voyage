@@ -23,6 +23,10 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Docs (generated)
+docs/
+
 # Claude
-.claude/
+.claude/settings.local.json
+.claude/projects/
 .mcp.json.backup
